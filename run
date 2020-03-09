@@ -1,0 +1,3 @@
+-classpath out\production\game-angka
+-d out\production\game-angka
+src/GameAngka.java
